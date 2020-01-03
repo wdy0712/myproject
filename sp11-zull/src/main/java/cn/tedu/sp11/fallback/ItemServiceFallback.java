@@ -1,6 +1,6 @@
 package cn.tedu.sp11.fallback;
 
-//哦！！操！！！！
+//哦！！操！！！！爱仕达多
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
 import java.io.InputStream;
